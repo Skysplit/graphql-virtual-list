@@ -49,6 +49,6 @@
     "@types/react-window-infinite-loader": "^1.0.3",
     "@types/testing-library__jest-dom": "^5.7.0",
     "@types/testing-library__react": "^10.0.1",
-    "json-graphql-server": "^2.1.3"
+    "json-graphql-server": "^2.3.2"
   }
 }
